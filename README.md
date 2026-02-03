@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
 ![Status](https://img.shields.io/badge/status-Working-success)
 ![Open Source](https://img.shields.io/badge/open-source-love)
-![Preview](https://imgur.com/a/ewUPgOb)
+![Preview]()
 **GenP Universal** is a community-driven tool designed for educational purposes and license management testing for Adobe products. It allows users to evaluate full features of Photoshop, Premiere, and After Effects in a local environment.
 
 ---
